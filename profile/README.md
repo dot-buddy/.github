@@ -11,4 +11,6 @@
 | **[The app](https://github.com/doldoldol21/dot-buddy)** | Install with `brew install --cask doldoldol21/tap/dot-buddy`. Works with Claude Code out of the box; Codex, Gemini CLI, Cursor, opencode and Aider through a hook. |
 | **[Characters](https://github.com/dot-buddy/characters)** | Characters people drew. [Browse the gallery](https://dot-buddy.github.io/characters/), download one and drop it on your pet, or add your own. |
 
-도트 친구는 코딩 에이전트가 끝나면 알려 주는 맥 바탕화면 도트 펫이에요. [앱](https://github.com/doldoldol21/dot-buddy) · [캐릭터 갤러리](https://dot-buddy.github.io/characters/ko/)
+<p align="center"><a href="https://github.com/sponsors/doldoldol21"><img src="https://raw.githubusercontent.com/doldoldol21/dot-buddy/main/docs/media/sponsor.gif" width="560" alt="Sponsor Dot Buddy and get supporter-only characters"></a></p>
+
+도트 친구는 코딩 에이전트가 끝나면 알려 주는 맥 바탕화면 도트 펫이에요. [앱](https://github.com/doldoldol21/dot-buddy) · [캐릭터 갤러리](https://dot-buddy.github.io/characters/ko/) · [후원하기](https://github.com/sponsors/doldoldol21)
